@@ -1,5 +1,5 @@
 %define	version	2.4.2
-%define release 24
+%define release 25
 %define dict_format_version	2.4.2
 
 Summary:	Latin -> English Freedict dictionary for StarDict 2
